@@ -36,7 +36,7 @@ title = "Hugo Serif Theme"
   [params.colors]
     primary = "#98FBCB"
     black = "#2f2f41"
-    white = "#ffffff"
+    white = "#d2b5a3"
     white_offset = "#f6f7ff"
     grey = "#5C5A5A"
 
