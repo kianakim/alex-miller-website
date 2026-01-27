@@ -24,7 +24,7 @@ title = "Hugo Serif Theme"
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
     desktop = "images/logo/alexmiller_logo.svg"
-    desktop_height = "360px"
+    desktop_height = "100px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
