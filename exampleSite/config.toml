@@ -63,12 +63,12 @@ title = "Hugo Serif Theme"
 
   [[menu.main]]
     name = "Client Experiences"
-    url = "/team/"
+    url = "/client-experiences/"
     weight = 2
 
   [[menu.main]]
     name = "About Me"
-    url = "/about/"
+    url = "/about-me/"
     weight = 3
 
   [[menu.main]]
