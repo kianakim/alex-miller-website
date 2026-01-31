@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Alex Miller Energy Coaching"
 
 [module]
   [module.hugoVersion]
@@ -25,7 +25,7 @@ title = "Hugo Serif Theme"
     mobile_height = "36px"
     desktop = "images/logo/alexmiller_logo.svg"
     desktop_height = "30px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Alex Miller Energy Coaching"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -63,12 +63,12 @@ title = "Hugo Serif Theme"
 
   [[menu.main]]
     name = "Client Experiences"
-    url = "/client-experiences/"
+    url = "/team/"
     weight = 2
 
   [[menu.main]]
     name = "About Me"
-    url = "/about-me/"
+    url = "/about/"
     weight = 3
 
   [[menu.main]]
